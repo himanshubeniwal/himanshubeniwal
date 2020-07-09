@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on <b>Computer Vision 🥽 & Machine Learning. ⚡ </b>
 - 🤔 I’m looking for help with <b>how we can improve the visibility to the AI. </b>
 - 💬 Ask me about <b>the places to travel! 🌏 </b>
-- 📫 How to reach me: <b>(linkedin)[https://www.linkedin.com/in/himanshubeniwal/] </b>
+- 📫 How to reach me: <b>[Linkedin](https://www.linkedin.com/in/himanshubeniwal/) </b>
 - 😄 Fav mathematical equation: <b>The magic of Euler's Identity. </b>
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ & crazy for 🐱‍💻. </b>
