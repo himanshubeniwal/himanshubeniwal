@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Welcome! 👨🏻‍💻
-![](tenor.gif)
+![](https://github.com/himanshubeniwal/himanshubeniwal/tenor.gif)
 
 Know about me! 💭
 
