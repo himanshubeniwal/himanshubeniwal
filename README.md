@@ -1,7 +1,8 @@
 ### Hi there 👋
 # Welcome! 👨🏻‍💻
 ![](tenor.gif)
-Here are some ideas to get you started:
+
+Know about me! 💭
 
 - 🔭 I’m currently working on <b>how an AI sees & thinks! 🤖</b>
 - 🌱 I’m currently learning <b>some depths in AI.</b>
