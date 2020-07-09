@@ -10,5 +10,5 @@ Know about me! 💭
 - 🤔 I’m looking for help with <b>how we can improve the visibility to the AI. 🆒 </b>
 - 💬 Ask me about <b>the places to travel! 🌏 </b>
 - 📫 How to reach me: <b>[Linkedin](https://www.linkedin.com/in/himanshubeniwal/) </b> 
-- 😄 Fav mathematical equation: <b>The magic of Euler's Identity. $(e)^{i * pi} + 1 = 0 $ </b>
+- 😄 Fav mathematical equation: <b>The magic of Euler's Identity. $$ e^{i \pi} + 1 = 0. $$ </b>
 - ⚡ Fun fact: <b>Traveling the 🌎 with 🖤 for espresso ☕️ & crazy for 🐱‍💻. </b>
