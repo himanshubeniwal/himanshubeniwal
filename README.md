@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+# Welcome! 👨🏻‍💻
+![](tenor.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>how an AI sees & thinks! 🤖</b>
