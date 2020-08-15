@@ -1,7 +1,6 @@
-## Hi there 👋
 
 ![](https://github.com/himanshubeniwal/himanshubeniwal/blob/master/tenor.gif)
-
+## Hi there 👋
 Know about me! 💭
 
 - 🔭 I’m currently working on <b>how an AI sees & thinks! 🤖</b>
